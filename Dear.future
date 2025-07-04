@@ -21,6 +21,7 @@
             <form>
                 <input type="text" placeholder="Ditt namn" required><br>
                 <input type="email" placeholder="Din e-post" required><br>
+                 <input type="text" placeholder="Ditt personnumer" required><br>
                 <textarea placeholder="Skriv ditt brev här..." rows="8" required></textarea><br>
                 <label>Bilagor:</label><br>
                 <input type="file" accept=".jpg,.png,.pdf,.docx,.mp3,.mp4"><br><br>
